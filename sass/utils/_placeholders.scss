@@ -1,0 +1,17 @@
+
+
+%hover-link:hover,
+%hover-link:focus{
+    color: var(--accent-color);
+}
+
+%hover-social-links:hover,
+%hover-social-links:focus{
+    background-color: var(--accent-color);
+    fill: var(--primary-background-color);
+}
+
+%margin-lr-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
